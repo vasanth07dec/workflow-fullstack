@@ -45,7 +45,7 @@ In:
 backend/config/initDB.js
 ```
 
-Update the manager entry:
+Add new user with actual mail for mailing support with manager:
 
 ```js
 {
